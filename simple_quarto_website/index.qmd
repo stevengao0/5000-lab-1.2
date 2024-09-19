@@ -1,0 +1,86 @@
+---
+title: "simple_quarto_website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# Introduction to Data Science and Analystics
+Lorem ipsum odor amet, consectetuer adipiscing elit. Netus varius cubilia sed leo fringilla. Semper elit conubia inceptos urna auctor tempus.
+Data science has evolved significantly in recent years.[^1]
+
+[^1]: Data science is a multidisciplinary field that combines statistics, data analysis, and machine learning.
+
+> "The goal is to turn data into information, and information into insight." – Carly Fiorina
+
+<iframe width="907" height="510" src="https://www.youtube.com/embed/RBSUwFGa6Fk" title="What is Data Science?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+## Data Science and Analystics
+Lorem ipsum odor amet, consectetuer adipiscing elit. Dapibus himenaeos dis tortor sem euismod. Suspendisse ornare donec sociosqu in auctor hac?
+
+### Key Concepts in Data Science
+
+- Lorem ipsum
+- Lorem ipsum
+- Lorem ipsum
+
+### Tools and Techniques
+Lorem ipsum odor amet, consectetuer adipiscing elit. Dictum praesent cubilia ac augue penatibus et inceptos. Gravida ad cursus odio neque commodo gravida arcu vel.
+
+:::: {.columns}
+::: {.column width="50%"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.
+:::
+::: {.column width="50%"}
+Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+:::
+::::
+
+### Data Science Tools
+
+| Tool             | Lorem ipsum  | Lorem ipsum  |
+|------------------|--------------|--------------|
+| Jupyter Notebook | Lorem ipsum  | Lorem ipsum  |
+| RStudio          | Lorem ipsum  | Lorem ipsum  |
+| Tableau          | Lorem ipsum  | Lorem ipsum  |
+
+### Mathematical Models
+
+The equation of a straight line is $y = mx + b$.
+
+![](images/straight line.png)
+
+
+#### Linear Regression Model
+
+The formula for a simple linear regression is:
+
+$$
+y = \beta_0 + \beta_1 x + \epsilon
+$$
+
+![](images/Linear Regression.png)
+
+Where:
+- $y$ is the dependent variable.
+- $\beta_0$ is the y-intercept.
+- $\beta_1$ is the slope of the regression line.
+- $x$ is the independent variable.
+- $\epsilon$ is the error term.
+
+### Data Science Workflow
+
+```{mermaid}
+flowchart LR
+    A[Collect Data] --> B[Process Data];
+    B --> C[Analyze Data];
+    C --> D[Generate Insights];
+```
+
+
+### Contributions to Data Science
+
+The term "Data Science" has evolved over time, with significant contributions made by researchers such as Van Der Aalst, who discusses its applications in *Data Science in Action* [@van2016data]. Additionally, Dhar’s article, *Data Science and Prediction*, outlines how prediction plays a critical role in the field [@dhar2013data].

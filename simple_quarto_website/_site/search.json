@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#data-science-and-analystics",
+    "href": "index.html#data-science-and-analystics",
+    "title": "simple_quarto_website",
+    "section": "Data Science and Analystics",
+    "text": "Data Science and Analystics\nLorem ipsum odor amet, consectetuer adipiscing elit. Dapibus himenaeos dis tortor sem euismod. Suspendisse ornare donec sociosqu in auctor hac?\n\nKey Concepts in Data Science\n\nLorem ipsum\nLorem ipsum\nLorem ipsum\n\n\n\nTools and Techniques\nLorem ipsum odor amet, consectetuer adipiscing elit. Dictum praesent cubilia ac augue penatibus et inceptos. Gravida ad cursus odio neque commodo gravida arcu vel.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.\n\nSed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.\n\n\n\n\nData Science Tools\n\n\n\nTool\nLorem ipsum\nLorem ipsum\n\n\n\n\nJupyter Notebook\nLorem ipsum\nLorem ipsum\n\n\nRStudio\nLorem ipsum\nLorem ipsum\n\n\nTableau\nLorem ipsum\nLorem ipsum\n\n\n\n\n\nMathematical Models\nThe equation of a straight line is \\(y = mx + b\\).\n\n\nLinear Regression Model\nThe formula for a simple linear regression is:\n\\[\ny = \\beta_0 + \\beta_1 x + \\epsilon\n\\]\n\nWhere: - \\(y\\) is the dependent variable. - \\(\\beta_0\\) is the y-intercept. - \\(\\beta_1\\) is the slope of the regression line. - \\(x\\) is the independent variable. - \\(\\epsilon\\) is the error term.\n\n\n\nData Science Workflow\n\n\n\n\n\nflowchart LR\n    A[Collect Data] --&gt; B[Process Data];\n    B --&gt; C[Analyze Data];\n    C --&gt; D[Generate Insights];\n\n\n\n\n\n\n\n\nContributions to Data Science\nThe term “Data Science” has evolved over time, with significant contributions made by researchers such as Van Der Aalst, who discusses its applications in Data Science in Action (Van Der Aalst and Aalst 2016). Additionally, Dhar’s article, Data Science and Prediction, outlines how prediction plays a critical role in the field (Dhar 2013)."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nData science is a multidisciplinary field that combines statistics, data analysis, and machine learning.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#introduction-to-data-science",
+    "href": "slides/slides.html#introduction-to-data-science",
+    "title": "Data Science Presentation",
+    "section": "Introduction to Data Science",
+    "text": "Introduction to Data Science\nData science is a multidisciplinary field focused on deriving insights from data."
+  },
+  {
+    "objectID": "slides/slides.html#the-data-science-process",
+    "href": "slides/slides.html#the-data-science-process",
+    "title": "Data Science Presentation",
+    "section": "The Data Science Process",
+    "text": "The Data Science Process\n\nData Collection\nData Cleaning\nData Analysis"
+  },
+  {
+    "objectID": "slides/slides.html#python-plot-example",
+    "href": "slides/slides.html#python-plot-example",
+    "title": "Data Science Presentation",
+    "section": "Python Plot Example",
+    "text": "Python Plot Example\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\nplt.plot(x, y)\nplt.title('Sine Wave')\nplt.xlabel('X Axis')\nplt.ylabel('Y Axis')\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#conclusion",
+    "href": "slides/slides.html#conclusion",
+    "title": "Data Science Presentation",
+    "section": "Conclusion",
+    "text": "Conclusion\nData science has revolutionized industries by providing actionable insights."
+  }
+]
